@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+
+<!-- Background color for app -->
+<color name="navy_background">#23395B</color>
+
+    <color name="colorAccent">#FA198B</color>
+
+    <color name="colorPrimaryDark">#23395B</color>
+
+    <color name="colorPrimary">#FA198B</color>
+
+    <color name="color_one">#DDE7C7</color>
+
+    <color name="color_two">#9197AE</color>
+
+    <color name="color_three">#C0DFA1</color>
+
+</resources>
